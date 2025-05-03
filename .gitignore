@@ -1,0 +1,11 @@
+# Файлы окружения
+.env
+
+# Служебные файлы Python
+__pycache__/
+*.pyc
+
+
+.env
+__pycache__
+*.log
